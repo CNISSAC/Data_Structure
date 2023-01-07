@@ -1,0 +1,4 @@
+-IG:\Codes\C++\Data_Structure\Section_vector
+-std=c++17
+-target
+
